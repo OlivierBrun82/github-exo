@@ -7,3 +7,5 @@ j'ai fais l'index.html
 ok et tu veux faire quelle partie ?
 
 je fais les faux articles
+
+ok je fais le form alors
