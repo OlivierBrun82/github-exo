@@ -9,3 +9,5 @@ ok et tu veux faire quelle partie ?
 je fais les faux articles
 
 ok je fais le form alors
+
+j'ai merge ta branch sur la mienne je vais merge ensuite sur le main 
